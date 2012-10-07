@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tw_indexview_rect_width">65.0dip</dimen>
+    <dimen name="tw_indexview_rect_height">61.0dip</dimen>
+    <dimen name="tw_indexview_index_textsize">80.0sp</dimen>
+    <dimen name="tw_indexview_index_textbg_top_margin">178.0dip</dimen>
+    <dimen name="tw_indexview_first_handle_textsize">14.599976sp</dimen>
+    <dimen name="tw_indexview_first_handle_top_margin">1.0dip</dimen>
+    <dimen name="tw_indexview_first_handle_width">18.0dip</dimen>
+    <dimen name="tw_indexview_first_handle_height_atoz">430.0dip</dimen>
+    <dimen name="tw_indexview_second_handle_width">19.299988dip</dimen>
+    <dimen name="tw_indexview_second_handle_gap">9.299988dip</dimen>
+    <dimen name="tw_indexview_characters_width">40.0dip</dimen>
+    <dimen name="tw_indexview_first_handle_width_clock">28.0dip</dimen>
+    <dimen name="tw_indexview_index_textbg_top_margin_horizontal">69.29999dip</dimen>
+    <dimen name="tw_indexview_first_handle_textgap">17.0sp</dimen>
+    <dimen name="tw_indexview_second_handle_textgap">25.299988dip</dimen>
+    <dimen name="tw_indexview_first_handle_toppading">7.299988dip</dimen>
+    <dimen name="tw_indexview_second_handle_toppading">10.599976dip</dimen>
+    <dimen name="tw_indexview_indexscroll_height">0.0dip</dimen>
+    <dimen name="tw_indexview_first_handle_textgap_land">23.0px</dimen>
+    <dimen name="tw_indexview_first_handle_textsize_mini">12.0px</dimen>
+    <dimen name="tw_indexview_first_handle_textgap_mini">17.0px</dimen>
+    <dimen name="tw_indexview_first_handle_textgap_land_mini">13.0px</dimen>
+</resources>

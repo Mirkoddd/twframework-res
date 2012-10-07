@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_clear_all_button">"Eslatmalarni o'chirish"</string>
+    <string name="status_bar_no_notifications_title">Bildirishnomalar yo‘q</string>
+    <string name="status_bar_ongoing_events_title">Hozirda bajarilmoqda</string>
+    <string name="status_bar_latest_events_title">Bildirishnomalar</string>
+    <string name="indicator_wifi">Wi-Fi</string>
+    <string name="indicator_bt">Bluetooth</string>
+    <string name="indicator_vibration">Vibratsiya</string>
+    <string name="indicator_sound">Ovozsiz</string>
+    <string name="quickpanel_mute">Ovozsiz</string>
+    <string name="quickpanel_speaker">Dinamik</string>
+    <string name="quickpanel_end">Tugatish</string>
+    <string name="no_missed_event">Sizda o‘tkazib yuborilgan hodisalar yo‘q</string>
+    <string name="schedule_format">Siz %s jadvalini o‘tkazib yubordingiz</string>
+    <string name="quickpanel_save">Saqlash</string>
+    <string name="quickpanel_rec">YOZ/OL</string>
+    <string name="quickpanel_pause">Pauza</string>
+    <string name="quickpanel_paused">To‘xtatilgan</string>
+    <string name="quickpanel_standby">Kutish rejimi</string>
+    <string name="indicator_gps">GPS</string>
+    <string name="indicator_rotation_lock">Aylant.</string>
+    <string name="indicator_orientation">"Avto-
+aylantir."</string>
+    <string name="quick_settings_error">Xato</string>
+    <string name="status_bar_ongoing_text_call">Call</string>
+    <string name="phone_m_format">Sizda %d o‘tkazib yuborilgan qo‘ng‘iroq mavjud</string>
+    <string name="mms_m_format">Sizda %d yangi xabar mavjud</string>
+    <string name="tw_clipboard_title_text">Bufer</string>
+    <string name="tw_clipboard_edit">Tahrir</string>
+    <string name="tw_clipboard_done">Qilindi</string>
+    <string name="tw_clipboard_save">Saqlash</string>
+    <string name="tw_clipboard_no_item">Elementlar yo‘q</string>
+    <string name="tw_ids_com_header_clipboard_options">Bufer opsiyalari</string>
+    <string name="tw_ids_com_body_delete_from_clipboard">Buferdan olib tashlash</string>
+</resources>

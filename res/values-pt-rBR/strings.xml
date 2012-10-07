@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_clear_all_button">Limpar notificações</string>
+    <string name="status_bar_no_notifications_title">Sem notificações</string>
+    <string name="status_bar_ongoing_events_title">Em andamento</string>
+    <string name="status_bar_latest_events_title">Notificações</string>
+    <string name="indicator_wifi">Wi-Fi</string>
+    <string name="indicator_bt">Bluetooth</string>
+    <string name="indicator_vibration">Vibração</string>
+    <string name="indicator_sound">Silencioso</string>
+    <string name="quickpanel_mute">Silenciar</string>
+    <string name="quickpanel_speaker">Viva-voz</string>
+    <string name="quickpanel_end">Encerrar</string>
+    <string name="no_missed_event">Você não possue eventos perdidos</string>
+    <string name="schedule_format">Possue um compromisso de %s ao qual faltou</string>
+    <string name="quickpanel_save">Salvar</string>
+    <string name="quickpanel_rec">REC</string>
+    <string name="quickpanel_pause">Pausar</string>
+    <string name="quickpanel_paused">Em pausa</string>
+    <string name="quickpanel_standby">Espera</string>
+    <string name="indicator_gps">GPS</string>
+    <string name="indicator_rotation_lock">Rotação</string>
+    <string name="indicator_orientation">"Rotação
+auto"</string>
+    <string name="quick_settings_error">Erro</string>
+    <string name="status_bar_ongoing_text_call">Chamada</string>
+    <string name="phone_m_format">Possue %d chamadas perdidas</string>
+    <string name="mms_m_format">Possue %d mensagens novas</string>
+    <string name="tw_clipboard_title_text">Área de transferência</string>
+    <string name="tw_clipboard_edit">Editar</string>
+    <string name="tw_clipboard_done">Conc.</string>
+    <string name="tw_clipboard_save">Salvar</string>
+    <string name="tw_clipboard_no_item">Sem itens</string>
+    <string name="tw_ids_com_header_clipboard_options">Opções de área de transferência</string>
+    <string name="tw_ids_com_body_delete_from_clipboard">Apagar da área de transferência</string>
+</resources>

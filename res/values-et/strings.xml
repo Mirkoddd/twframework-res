@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_clear_all_button">Kustuta teavitused</string>
+    <string name="status_bar_no_notifications_title">Ära teavita</string>
+    <string name="status_bar_ongoing_events_title">Pooleliolev</string>
+    <string name="status_bar_latest_events_title">Teavitused</string>
+    <string name="indicator_wifi">Wi-Fi</string>
+    <string name="indicator_bt">Bluetooth</string>
+    <string name="indicator_vibration">Värin</string>
+    <string name="indicator_sound">Vaikne</string>
+    <string name="quickpanel_mute">Hääletu</string>
+    <string name="quickpanel_speaker">Kõlar</string>
+    <string name="quickpanel_end">Lõpeta</string>
+    <string name="ticker_voicerecord">Ticker VR test</string>
+    <string name="ticker_call">Ticker CALL test</string>
+    <string name="ticker_radio">Ticker RADIO test</string>
+    <string name="ticker_music">Ticker MUSIC test</string>
+    <string name="quickpanel_retreive">Retreive</string>
+    <string name="no_missed_event">Teil pole möödunud sündmusi</string>
+    <string name="phone_format">You have missed call from %1$s at %2$s</string>
+    <string name="mms_format">You have new message from %1$s at %2$s</string>
+    <string name="schedule_format">Üksuse %s ajakava on möödunud</string>
+    <string name="multi_format">%1$d missed call, %2$d new message, %3$d missed event</string>
+    <string name="quickpanel_save">Salvesta</string>
+    <string name="quickpanel_rec">REC</string>
+    <string name="quickpanel_pause">Paus</string>
+    <string name="quickpanel_paused">Paus</string>
+    <string name="quickpanel_standby">Ootel</string>
+    <string name="indicator_gps">GPS</string>
+    <string name="indicator_rotation_lock">Pööram.</string>
+    <string name="indicator_orientation">"Autom.
+pööram."</string>
+    <string name="quick_settings_error">Tõrge</string>
+    <string name="status_bar_ongoing_text_call">Helista</string>
+    <string name="phone_m_format">Teil on %d vastamata kõnet</string>
+    <string name="mms_m_format">Teile on %d uut sõnumit</string>
+    <string name="tw_clipboard_title_text">Lõikelaud</string>
+    <string name="tw_clipboard_edit">Muuda</string>
+    <string name="tw_clipboard_done">Valmis</string>
+    <string name="tw_clipboard_save">Salvesta</string>
+    <string name="tw_clipboard_no_item">Üksusi pole</string>
+    <string name="tw_ids_com_header_clipboard_options">Lõikelaua valikud</string>
+    <string name="tw_ids_com_body_delete_from_clipboard">Kustuta lõikelaualt</string>
+</resources>

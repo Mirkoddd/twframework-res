@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_clear_all_button">Naikinti pranešimus</string>
+    <string name="status_bar_no_notifications_title">Jokių įspėjimų</string>
+    <string name="status_bar_ongoing_events_title">Tebevykstantis</string>
+    <string name="status_bar_latest_events_title">Pranešimai</string>
+    <string name="indicator_wifi">Wi-Fi</string>
+    <string name="indicator_bt">Bluetooth</string>
+    <string name="indicator_vibration">Vibruoti</string>
+    <string name="indicator_sound">Tildyti</string>
+    <string name="quickpanel_mute">Nutildyti</string>
+    <string name="quickpanel_speaker">Garsiak.</string>
+    <string name="quickpanel_end">Baigti</string>
+    <string name="ticker_voicerecord">Ticker VR test</string>
+    <string name="ticker_call">Ticker CALL test</string>
+    <string name="ticker_radio">Ticker RADIO test</string>
+    <string name="ticker_music">Ticker MUSIC test</string>
+    <string name="quickpanel_retreive">Retreive</string>
+    <string name="no_missed_event">Nėra praleistų įvykių</string>
+    <string name="phone_format">You have missed call from %1$s at %2$s</string>
+    <string name="mms_format">You have new message from %1$s at %2$s</string>
+    <string name="schedule_format">Jūs praleidote %s tvarkaraštį</string>
+    <string name="multi_format">%1$d missed call, %2$d new message, %3$d missed event</string>
+    <string name="quickpanel_save">Įrašyti</string>
+    <string name="quickpanel_rec">ĮRAŠ.</string>
+    <string name="quickpanel_pause">Pauzė</string>
+    <string name="quickpanel_paused">Pauzė...</string>
+    <string name="quickpanel_standby">Budėjimo režimas</string>
+    <string name="indicator_gps">GPS</string>
+    <string name="indicator_rotation_lock">Rotacija</string>
+    <string name="indicator_orientation">"Autom.
+sukimas"</string>
+    <string name="quick_settings_error">Klaida</string>
+    <string name="status_bar_ongoing_text_call">Skambinti</string>
+    <string name="phone_m_format">Jūs turite praleistų skambučių: %d</string>
+    <string name="mms_m_format">Jūs turite naujų žinučių: %d</string>
+    <string name="tw_clipboard_title_text">Iškarpinė</string>
+    <string name="tw_clipboard_edit">Redaguoti</string>
+    <string name="tw_clipboard_done">Atlikta</string>
+    <string name="tw_clipboard_save">Įrašyti</string>
+    <string name="tw_clipboard_no_item">Nėra elementų</string>
+    <string name="tw_ids_com_header_clipboard_options">Iškarpinės parinktys</string>
+    <string name="tw_ids_com_body_delete_from_clipboard">Trinti iš iškarpinės</string>
+</resources>
